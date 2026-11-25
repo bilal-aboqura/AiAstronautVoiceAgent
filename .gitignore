@@ -4,8 +4,10 @@
 *.key
 *.pem
 
-# Dependencies
+# Dependencies & Build
 node_modules/
+dist/
+build/
 __pycache__/
 *.py[cod]
 .venv/
